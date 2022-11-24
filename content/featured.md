@@ -7,9 +7,9 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 50
 
-title: Featured Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -19,6 +19,8 @@ content:
   count: 0
   # Filter on criteria
   filters:
+    folders:
+    - publication
     featured_only: true
     author: ''
     category: ''
