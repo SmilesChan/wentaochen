@@ -26,7 +26,7 @@ publishDate: '2021-09-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Journal of Heat and Mass Transfer*
+publication: "*International Journal of Heat and Mass Transfer"
 publication_short: In *IJHMT*
 
 abstract: In vacuum, thermal energy is transported by photons (thermal radiation) but not phonons. Recent studies,
