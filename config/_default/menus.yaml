@@ -5,10 +5,10 @@
 
 main:
   - name: Biography
-    url: '#about'
+    url: '#<content-home-about>'
     weight: 10
   - name: News
-    url: '#news'
+    url: '#<content-home-news>'
     weight: 20
   - name: Publications
     url: '#featured'
