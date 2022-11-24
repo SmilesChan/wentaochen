@@ -80,4 +80,3 @@ highlight_name: true
 
 I am a postdoctoral researcher at Heat Transfer Lab in the Department of Mechanical Engineering of Kyushu Institute of Technology, Japan. I have a particular focus on near-field heat transfer, thermal transport at the solid-solid and solid-liquid interface, and molecular dynamics simulation.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
