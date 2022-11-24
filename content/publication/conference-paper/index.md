@@ -49,7 +49,7 @@ url_pdf: 'https://www.researchgate.net/publication/351870936_Quasi-Casimir_coupl
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://ars.els-cdn.com/content/image/1-s2.0-S0017931021005342-fx1_lrg.jpg)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
