@@ -14,6 +14,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Department of Mechanical Engineering
+    url: https://www.tobata.kyutech.ac.jp/
   - name: Kyushu Institute of Technology
     url: https://www.kyutech.ac.jp/
 
@@ -33,13 +35,13 @@ interests:
 education:
   courses:
     - course: PhD in Mechanical Engineering
-      institution: Kyushu Institute of Technology
+      institution: Kyushu Institute of Technology, Japan
       year: 2022
     - course: MEng in Mechanical Engineering and Automation
-      institution: Northeastern University
+      institution: Northeastern University, China
       year: 2018
     - course: BEng in Electromechanical and Automation
-      institution: Huazhong University of Science and Technology Wuchang Branch
+      institution: Huazhong University of Science and Technology Wuchang Branch, China
       year: 2015
 
 # Social/Academic Networking
