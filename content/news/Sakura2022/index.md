@@ -6,7 +6,8 @@ subtitle: Online Sakura Science 2022
 summary: Online Sakura Science 2022
 
 # Organization
-authors: Kyushu Institute of Technology
+authors:
+  - Kyushu Institute of Technology
 
 # Date published
 date: '2020-12-13T00:00:00Z'
