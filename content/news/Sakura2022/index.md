@@ -2,8 +2,7 @@
 title: Japan-Asia Youth Exchange Program in Science
 subtitle: 
   - Online Sakura Science 2022
-  - Qingdao University of Technology, Northeastern University, Shandong University, National Taiwan University of Science & Technology,
-    Qilu University of Technology, Nanyang Technological University, University of Ulsan, Free University of Bozen-Bolzano, Kyushu University
+  - Qingdao University of Technology, Northeastern University, Shandong University, National Taiwan University of Science & Technology, Qilu University of Technology, Nanyang Technological University, University of Ulsan, Free University of Bozen-Bolzano, Kyushu University
 
 # Summary for listings and search engines
 summary: Online Sakura Science 2022
