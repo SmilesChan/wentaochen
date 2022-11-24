@@ -51,7 +51,7 @@ url_pdf: 'https://www.researchgate.net/publication/351870936_Quasi-Casimir_coupl
 image:
   caption: ''
 #  focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
