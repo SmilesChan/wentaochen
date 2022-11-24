@@ -80,4 +80,4 @@ highlight_name: true
 
 I am a postdoctoral researcher at Heat Transfer Lab in the Department of Mechanical Engineering of Kyushu Institute of Technology, Japan. I have a particular focus on near-field heat transfer, thermal transport at the solid-solid and solid-liquid interface, and molecular dynamics simulation.
 
-Currently, I am working on a project named Research Activity Start-up, supported by Japan Society for the Promotion of Science.
+Currently, I am working on a project named thermal resonance induced by quasi-Casimir coupling for innovative nanoscale thermal management, supported by through the Grant-in-Aid for Research Activity Start-up, Project No. 22K20412.
