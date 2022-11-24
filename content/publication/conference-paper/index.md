@@ -26,10 +26,10 @@ publishDate: '2021-09-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Heat and Mass Transfer"
-publication_short: "*International Journal of Heat and Mass Transfer"
+publication: "International Journal of Heat and Mass Transfer"
+publication_short: "International Journal of Heat and Mass Transfer"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In vacuum, thermal energy is transported by photons (thermal radiation) but not phonons. Recent studies, however, indicated that phonon heat transfer across a vacuum gap is mediated by the quantum fluctuation of electromagnetic fields. Specifically, in the heat exchange between two objects separated by a nanoscale vacuum gap, phonons carry thermal energy more efficiently than photons. However, it remains unclear if phonons can propagate without electromagnetic fields. Here, we demonstrate that phonon transmission across a sub-nanometer vacuum gap can be induced by quasi-Casimir force subjected to the Lennard–Jones atoms using classical molecular dynamics simulation. The net heat flux across the vacuum gap increases exponentially as the gap distance decreases, owing to acoustic phonon transmission. The local heat flux, evaluated using the Irving–Kirkwood method, increases singularly at the interfacial layers, while that at the inner layers agrees well with the net heat flux. These findings provide evidence of the strong thermal resonance induced by quasi-Casimir coupling between the interfacial layers. Thus, we conclude that the quasi-Casimir coupling induced by intermolecular interaction is a heat transfer mode for phonon heat transfer across a vacuum gap in nanoscale.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
