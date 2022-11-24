@@ -50,8 +50,8 @@ url_pdf: 'https://www.researchgate.net/publication/351870936_Quasi-Casimir_coupl
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
-#  focal_point: ''
-  preview_only: true
+  focal_point: Right
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
