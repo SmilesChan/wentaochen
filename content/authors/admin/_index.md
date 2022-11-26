@@ -14,6 +14,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Heat Transfer Lab
+    url: http://www.heat.mech.kyutech.ac.jp/index.html
   - name: Department of Mechanical Engineering
     url: https://www.tobata.kyutech.ac.jp/
   - name: Kyushu Institute of Technology
