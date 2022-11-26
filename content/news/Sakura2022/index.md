@@ -10,7 +10,7 @@ authors:
   - Kyushu Institute of Technology
 
 # Date published
-date: '2020-12-13'
+publishDate: '2022-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
