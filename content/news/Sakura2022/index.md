@@ -10,7 +10,7 @@ authors:
   - Kyushu Institute of Technology
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2020-12-13'
 
 # Is this an unpublished draft?
 draft: false
@@ -21,7 +21,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
