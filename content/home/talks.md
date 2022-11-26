@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 'Recent & Upcoming Talks'
+title: 'Talks'
 subtitle:
 
 content:
@@ -19,6 +19,8 @@ content:
   count: 5
   # Filter on criteria
   filters:
+      folders:
+      - talks
     author: ''
     category: ''
     tag: ''
