@@ -1,16 +1,16 @@
 ---
-title: Example Talk
+title: Interfacial thermal resonance between adsorbed liquid layers in a nanogap
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Thermal Engineering Conference 2022
+event_url: https://www.jsme.or.jp/conference/tedconf22/
 
-location: Wowchemy HQ
+location: The University of Tokyo
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 7 Chome-3-1 Hongo, Bunkyo
+  city: Tokyo
+#  region: CA
+  postcode: '113-8654'
+  country: Japan
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
